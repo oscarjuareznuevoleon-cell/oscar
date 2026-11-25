@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,  sky sport mx
+http://brat.lat:8080/live/Omarprosop/1347339e05/396653.m3u8
+#EXTINF:-1,  espn premium
+http://brat.lat:8080/live/Omarprosop/1347339e05/369708.m3u8
+#EXTINF:-1, fox
+http://brat.lat:8080/live/Omarprosop/1347339e05/317017.m3u8
